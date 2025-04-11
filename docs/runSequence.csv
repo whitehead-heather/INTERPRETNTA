@@ -1,0 +1,22 @@
+﻿Sample Sequence,Sample Group
+Blank_a,Blank
+Sample1_a,Sample
+Sample2_a,Sample
+Sample3_a,Sample
+Standard_a,Spiked
+MatrixSpike_a,Spiked
+PooledMatrix_a,Sample
+Blank_b,Blank
+MatrixSpike_b,Spiked
+Sample2_b,Sample
+PooledMatrix_b,Sample
+Sample1_b,Sample
+Sample3_b,Sample
+Standard_b,Spiked
+Blank_c,Blank
+Sample2_c,Sample
+Sample3_c,Sample
+PooledMatrix_c,Sample
+Standard_c,Spiked
+Sample1_c,Sample
+MatrixSpike_c,Spiked

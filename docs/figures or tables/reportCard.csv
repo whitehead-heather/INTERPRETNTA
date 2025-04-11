@@ -1,0 +1,7 @@
+﻿INTERPRET NTA Output,Summary Quality Metrics
+Isotopically-labeled Compound Summary Tables (1),"|mass error|=0.1-6.4 ppm, |RT error|=0.0-0.49 min, max CV=0.33-1.22 "
+CV Scatter Plots (2),1.2% of unfiltered isotopically-labeled compound occurrences above CV=0.8 threshold
+Run Sequence Plots (3),Minor decrease in abundance across sequence; specific sample outliers 
+Occurrence Decision Tree (4),48% of unfiltered occurrences removed
+Feature Decision Tree (4),11% of unfiltered features removed
+Confusion Matrices (5) ,TPR=97-100%; TNR=38-100%; FNR=0-5%; FPR=0-62%

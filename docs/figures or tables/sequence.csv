@@ -1,0 +1,3 @@
+Required column ,Acceptable column names,Description of column contents,Additional comments
+Run sequence,Sample Sequence,Each row contains a different sample name that exactly matches a sample name in the relevant input detection matrix ,"The run sequence order is derived from the order in which samples are listed (e.g., row 2 is the first sample injected, row 3 the second, and so on)"
+Grouping,Sample Group,"A user-defined sample grouping to identify samples within a group. Cells should contain a string that describes the sample type or other group metric (e.g., Blank, Sample, Control)",Maximum of 10 unique groups

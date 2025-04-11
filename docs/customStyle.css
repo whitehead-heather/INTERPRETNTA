@@ -1,0 +1,122 @@
+.alert{
+  padding:10px;
+  margin-bottom:10px;
+}
+
+#runSeqPlotsContainer {
+  border: solid;
+}
+
+#nav-top span.glyphicon {
+  color: #0668b3;
+  font-size: 28px;
+}
+
+
+#sidebar {
+  background: #f5f7fa;
+  margin: 0px 0px 0px 0px;
+}
+
+#sidebar h2 {
+    background-color: #0668b3;
+    text-align: left;
+    padding: 0.00em;
+    color: #fcfcfc;
+    margin: 0px 0px 0px 0px;
+}
+#sidebar a{
+  color: #121211;
+  text-align: left;
+  margin: 0px 0px 0px 0px;
+}
+
+#sidebar h2 a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+
+#postamble {
+  background:#0668b3;
+  border-top:solid 10px #2da343;
+}
+
+.title {
+  text-align: left;
+  color: #0668b3;
+}
+
+.subtitle {
+  color: #f5f7fa;
+}
+
+h2, legend {
+  color: #f6f7fa;
+}
+
+#content h2 {
+    background-color: #0668b3;
+    padding:0.2em;
+}
+
+h3, legend {
+  color: #f6f7fa;
+  margin: 18px 0px 6px 0px;
+}
+
+#content h3 {
+    background-color: #0095d7;
+    padding:0.2em;
+}
+
+h4, legend {
+  color: #f6f7fa;
+  margin: 18px 0px 6px 0px;
+}
+
+#content h4 {
+    background-color: #2da343;
+    padding:0.2em;
+}
+
+
+#main :not(.leaflet-control) >a {
+  background-image: linear-gradient(180deg, #0095d7, #0095d7);
+  color: #2da343;
+  font-size: 14px;
+}
+
+#main ul, #content .toctree-wrapper ul, article ul {
+    margin-bottom: 12px;
+}
+
+blockquote{
+  font-style: normal;
+  border-left: 5px solid #0668b3;
+  margin: 12px 12px 18px 12px;
+}
+
+body{
+  font-size: 14px;
+}
+
+table caption {
+    color: #000;
+    font: normal 100% / 1 arial, sans-serif;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.figure p.caption {
+    font-style: normal;
+    font-size: 100%;
+    margin: 6px 0px 0px 0px;
+    text-align: center;
+}
+
+.figure {
+    margin: 12px 0px 0px 0px;
+    text-align: center;
+}
+

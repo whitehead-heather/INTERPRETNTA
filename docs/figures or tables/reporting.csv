@@ -1,0 +1,8 @@
+﻿Item Reported ,Reported as,Data Source
+"Summarized tracer chemical performance for detection frequencies, max CVs, and false negative and false positive rates",Descriptive Text,"Prepared from detail descriptive text, tables, and figures provided in Supporting Information"
+Summarized fate of features and occurrences in INTERPRET NTA processing,Descriptive Text,Decision Trees and Report Card
+INTERPRET NTA input parameters,Table,From job creation or from “Analysis Parameters” sheet in Excel output
+"Detection frequencies, max CVs, and feature-level information (e.g., observed mass error and retention time differences) for all tracer chemicals","Table, Descriptive Text, option to include user-generated figures ",From “Tracer Detection Statistics” and “Tracer Summary” sheets in Excel output
+Summarized metrics from INTERPRET NTA processing,"Table, see “Report Card” section below",Summarized from various visual and tabular outputs
+Static visualizations from INTERPRET NTA,Figures,".zip file, or downloaded from interactive plots in INTERPRET NTA"
+Confusion matrices that examine false negative and false positive rates for tracer chemicals,Tables and Descriptive Text,Input detection matrices and output Final Occurrence Matrix from INTERPRET NTA

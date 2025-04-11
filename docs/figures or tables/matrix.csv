@@ -1,0 +1,4 @@
+﻿_,_,Yes,No,Sum
+Mapped to Tracer Chemicals,Yes,TP,FP,TP+FP
+Mapped to Tracer Chemicals,No,FN,TN,TN+FN
+,Sum,TP+FN,TN+FP,TP+FN+TN+FP
